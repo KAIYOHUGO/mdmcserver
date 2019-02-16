@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "mdmcserver-mod-1.12.2",
+      "name" : "mdmcserver",
+      "version" : "0.0.1",
+      "location" : "mdmcserver.json",
+      "priority" : 0
+    }
+  ]
+}
