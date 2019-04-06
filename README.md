@@ -1,3 +1,4 @@
 # mdmcserver
-mdmcserver mods download
+mdmcserver 
+
 download mods at master/mods/pack
